@@ -15,7 +15,6 @@ public class Control extends Menu {
 
         System.out.println( "1- KITAP MENUSU\n" +
                 "2- SIFRE GUNCELLEME\n" +
-                "3- ARAMA\n" +
                 "0- CIKIS");
 
         System.out.print("Lutfen isleminizi seciniz : ");
